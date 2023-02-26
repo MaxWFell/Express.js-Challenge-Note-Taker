@@ -29,5 +29,6 @@ Express.js Challenge: Note Taker
   [Link to my GitHub Profile](https://github.com/MaxWFell)
   
   For any additional questions, concerns, or comments, you may email me at: 
-  
+  <img width="845" alt="Screen Shot 2023-02-26 at 6 37 17 PM" src="https://user-images.githubusercontent.com/114300797/221444404-6dbbacb7-ad2f-4dab-8685-620b18ed5ffe.png">
+
   Maxwilliamfell@gmail.com
